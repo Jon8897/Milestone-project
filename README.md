@@ -8,13 +8,17 @@ check it out!!_
 ## UX
 For Future Employers:
 
-* As a user type, I want to perform an action, so that I can achieve a goal.
+* As an employer I would like to see information about who im employing.
 
-* As a user type, I want to perform an action, so that I can achieve a goal.
+* I would like to see what the employee would like to achieve.
 
-* As a user type, I want to perform an action, so that I can achieve a goal.
+* As i am hiring him I would like to see his work and eductional history.
 
-* As a user type, I want to perform an action, so that I can achieve a goal.
+* I would like to see different form of contact the employee.
+
+* I would like to be able to download a hard copy of the employee CV.
+
+* I would aslo like to see what key skills he has.
 
 ## Features
 
@@ -51,43 +55,47 @@ Another feature I would like to use is to be able to link my contact form to be 
     * Icons were used to simply where this are.
 
 ## Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
 
 * Contact form:
-   1. Go to the "Contact Us" page
-   2. Try to submit the empty form and verify that an error message about the required fields appears
-   3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-   4. Try to submit the form with all inputs valid and verify that a success message appears.
-   5. In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+   1. Go to the "Contact" page
+   2. I have tried to sumbit an empty form and see that the correct error messages show up.
+   3. Then i tired to fill one of the fields in and made sure all the correct error messages show up.
+   4. I tested the button to submit works by pressing it while nothing was there and the right error message occured.
+   5. If all required fields were filled the message would submit.
 
 * Index:
-   1. Go to the "Contact Us" page
-   2. Try to submit the empty form and verify that an error message about the required fields appears
-   3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-   4. Try to submit the form with all inputs valid and verify that a success message appears.
-   5. In addition, you should mention i
+   1. Go to the "Home" page
+   2. the navbar was all clear and showed where everything was
+   3. to make sure all the information and icons to be able to point out were it was and they were showing
+   4. tested the download in the footer works
+   5. tested that 
 
 * Resume:
-   1. Go to the "Contact Us" page
-   2. Try to submit the empty form and verify that an error message about the required fields appears
-   3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-   4. Try to submit the form with all inputs valid and verify that a success message appears.
-   5. In addition, you should mention i
+   1. Go to the "Resume" page
+   2. tested to be able to see that the writing is not to close together and was read able
+   3. the navbar was all clear and showed where everything was
+   4. tested to see if the picture from the home page also transfered to the resume page
+   5. tested the download in the footer works
 
 * Assets:
-   1. Go to the "Contact Us" page
-   2. Try to submit the empty form and verify that an error message about the required fields appears
-   3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-   4. Try to submit the form with all inputs valid and verify that a success message appears.
-   5. In addition, you should mention i   
+   1. Go to the "Assets folder" page
+   2. CSS was working and showing no error messages
+   3. images were added and able to be used
+   4. the cv link was not broken and was able to show in the website
+   5. to make sure the css was sectioned
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+* Download:
+   1. Go to the "Download" page
+   2. I tested to see if the CV would open it did but i lost the website
+   3. I then changed it so it would open in a new tab
+   4. I saw that the CV is downloadable
+   5. I also made a downloadable section in the footer and that works fine
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+## bugs
+   
+   * I have had trouble with connecting the CSS to work but that was because of my own spelling mistakes
+
+   * I also had trouble with bootstrap as I could not get the boot strap to show up  
 
 # Credits
 
