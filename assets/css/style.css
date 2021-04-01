@@ -23,15 +23,15 @@
 }
 
 .ui-menu-color-home{
-    background-color: #9b7805;
+    background-color: #525252;
 }
 
 .ui-menu-color-resume{
-    background-color: #533161;
+    background-color: #525252;
 }
 
 .ui-menu-color-contact{
-    background-color: #326d30;
+    background-color: #525252;
 }
 
 .ui-menu-color-download{
@@ -93,7 +93,7 @@ header{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 360px;
+    min-height: 150px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -133,7 +133,7 @@ header{
     padding: 0;
 }
 .menuitem{
-    height: 120px;
+    height: 75px;
     text-align: center;
     padding: 0;
 }
@@ -146,10 +146,10 @@ header{
 }
 
 .menuitem a i{
-    padding-top: 22px;
+    padding-top: 15px;
     display: block;
     color: #fafafa;
-    font-size: 26px;
+    font-size: 20px;
 }
 
 .menuitem span{
@@ -226,7 +226,7 @@ footer{
 
 .three-reasons-icon{
     font-size: 26px;
-    color: #e67e22;
+    color: #944805;
 }
 .three-reasons-heading{
     margin-bottom: 15px;
